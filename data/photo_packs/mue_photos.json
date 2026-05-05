@@ -23,8 +23,8 @@
       "default": "high",
       "required": true,
       "options": [
-        { "value": "low", "label": "Low (Faster)" },
-        { "value": "medium", "label": "Medium" },
+        { "value": "datasaver", "label": "Data Saver (Faster)" },
+        { "value": "normal", "label": "Normal" },
         { "value": "high", "label": "High (Best Quality)" }
       ]
     },
